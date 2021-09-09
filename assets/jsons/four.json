@@ -1,0 +1,14 @@
+{
+  "id":1,
+  "name":"Product Name",
+  "images":[
+    {
+      "id":11,
+      "imageName":"Image 1"
+    },
+    {
+      "id":21,
+      "imageName":"Image 2"
+    }
+  ]
+}
